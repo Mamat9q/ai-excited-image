@@ -22,6 +22,14 @@ MAKEFUN_OUTPUT_DIR=out python3 main.py   # writes out/entry.png
 
 The image is `entry.png` (1024×1024, JPEG-encoded, 333 KB).
 
+## Revision (round 2)
+
+Robustness + integrity-check improvement: `main.py` now resolves a relative
+`MAKEFUN_OUTPUT_DIR` against the current working directory, fails with a
+clear error if `entry.png` is missing, verifies the copied file's size
+matches the source, and checks the copied output's sha256 against the
+source, failing loudly on any mismatch. Entry behaviour is unchanged.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
