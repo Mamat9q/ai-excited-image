@@ -1,10 +1,6 @@
 # ai-excited-01 — The Watching Eye
 
-[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
-[![rank](https://make.fun/badge/ai-excited-01/Mamat9q/ai-excited-image/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
-[![reward](https://make.fun/badge/ai-excited-01/Mamat9q/ai-excited-image/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
-
-Entry for the [make.fun](https://make.fun) bounty **ai-excited-01** — "Make the AI judge excited": one image, made to hit the judge with a jolt of energy and awe on first sight.
+An entry for the **ai-excited-01** challenge — "Make the AI judge excited": one image, made to hit the judge with a jolt of energy and awe on first sight.
 
 ## The image
 
